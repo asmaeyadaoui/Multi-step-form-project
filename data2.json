@@ -1,0 +1,620 @@
+{
+    "countries":[
+      
+      
+           
+            {"iso" : "DZ", "country" : "Algeria"},
+  
+          
+            {"iso" : "AR", "country" : "Argentina"},
+            {"iso" : "AM", "country" : "Armenia"},
+           
+            {"iso" : "AU", "country" : "Australia"},
+            {"iso" : "AT", "country" : "Austria"},
+      
+    
+            {"iso" : "BH", "country" : "Bahrain"},
+            {"iso" : "BD", "country" : "Bangladesh"},
+           
+            {"iso" : "BE", "country" : "Belgium"},
+           
+            {"iso" : "BJ", "country" : "Benin"},
+          
+            {"iso" : "BR", "country" : "Brazil"},
+     
+           
+            {"iso" : "BG", "country" : "Bulgaria"},
+            {"iso" : "BF", "country" : "Burkina Faso"},
+           
+            {"iso" : "KH", "country" : "Cambodia"},
+            {"iso" : "CM", "country" : "Cameroon"},
+            {"iso" : "CA", "country" : "Canada"},
+            {"iso" : "CV", "country" : "Cape Verde"},
+      
+            {"iso" : "CF", "country" : "Central African Republic"},
+            {"iso" : "TD", "country" : "Chad"},
+            {"iso" : "CL", "country" : "Chile"},
+            {"iso" : "CN", "country" : "China"},
+    
+            {"iso" : "CO", "country" : "Colombia"},
+            {"iso" : "KM", "country" : "Comoros"},
+            {"iso" : "CG", "country" : "Congo"},
+            {"iso" : "CD", "country" : "Congo, the Democratic Republic of the"},
+          
+            {"iso" : "CI", "country" : "Cote D'Ivoire"},
+            {"iso" : "HR", "country" : "Croatia"},
+            {"iso" : "CU", "country" : "Cuba"},
+            {"iso" : "CY", "country" : "Cyprus"},
+            {"iso" : "CZ", "country" : "Czech Republic"},
+            {"iso" : "DK", "country" : "Denmark"},
+            {"iso" : "DJ", "country" : "Djibouti"},
+   
+            {"iso" : "DO", "country" : "Dominican Republic"},
+      
+            {"iso" : "EG", "country" : "Egypt"},
+          
+            {"iso" : "GQ", "country" : "Equatorial Guinea"},
+            {"iso" : "ER", "country" : "Eritrea"},
+            {"iso" : "EE", "country" : "Estonia"},
+            {"iso" : "ET", "country" : "Ethiopia"},
+         
+            
+            {"iso" : "FI", "country" : "Finland"},
+            {"iso" : "FR", "country" : "France"},
+     
+         
+            {"iso" : "GA", "country" : "Gabon"},
+            {"iso" : "GM", "country" : "Gambia"},
+     
+            {"iso" : "DE", "country" : "Germany"},
+            {"iso" : "GH", "country" : "Ghana"},
+      
+            {"iso" : "GR", "country" : "Greece"},
+            {"iso" : "GL", "country" : "Greenland"},
+         
+            {"iso" : "GT", "country" : "Guatemala"},
+            {"iso" : "GN", "country" : "Guinea"},
+            {"iso" : "GW", "country" : "Guinea-Bissau"},
+       
+    
+            {"iso" : "HK", "country" : "Hong Kong"},
+            {"iso" : "HU", "country" : "Hungary"},
+            {"iso" : "IS", "country" : "Iceland"},
+            {"iso" : "IN", "country" : "India"},
+            {"iso" : "ID", "country" : "Indonesia"},
+            {"iso" : "IR", "country" : "Iran, Islamic Republic of"},
+            {"iso" : "IQ", "country" : "Iraq"},
+
+            {"iso" : "IT", "country" : "Italy"},
+      
+            {"iso" : "JP", "country" : "Japan"},
+            {"iso" : "JO", "country" : "Jordan"},
+            {"iso" : "KZ", "country" : "Kazakhstan"},
+            {"iso" : "KE", "country" : "Kenya"},
+     
+            {"iso" : "KP", "country" : "Korea, Democratic People's Republic of"},
+            {"iso" : "KR", "country" : "Korea, Republic of"},
+            {"iso" : "KW", "country" : "Kuwait"},
+       
+            {"iso" : "LB", "country" : "Lebanon"},
+       
+            {"iso" : "LR", "country" : "Liberia"},
+            {"iso" : "LY", "country" : "Libyan Arab Jamahiriya"},
+       
+            {"iso" : "LT", "country" : "Lithuania"},
+            {"iso" : "LU", "country" : "Luxembourg"},
+    
+            {"iso" : "MG", "country" : "Madagascar"},
+            {"iso" : "MW", "country" : "Malawi"},
+            {"iso" : "MY", "country" : "Malaysia"},
+            {"iso" : "MV", "country" : "Maldives"},
+            {"iso" : "ML", "country" : "Mali"},
+            {"iso" : "MR", "country" : "Mauritanie"},
+
+            {"iso" : "MX", "country" : "Mexique"},
+    
+            {"iso" : "MC", "country" : "Monaco"},
+  
+            {"iso" : "MA", "country" : "Maroc"},
+            {"iso" : "MZ", "country" : "Mozambique"},
+         
+ 
+            {"iso" : "NL", "country" : "Netherlands"},
+   
+            {"iso" : "NZ", "country" : "New Zealand"},
+      
+            {"iso" : "NE", "country" : "Niger"},
+            {"iso" : "NG", "country" : "Nigeria"},
+      
+            {"iso" : "NO", "country" : "Norway"},
+            {"iso" : "OM", "country" : "Oman"},
+            {"iso" : "PK", "country" : "Pakistan"},
+        
+            {"iso" : "PS", "country" : "Palestinian Territory, Occupied"},
+    
+            
+            {"iso" : "PH", "country" : "Philippines"},
+  
+            {"iso" : "PT", "country" : "Portugal"},
+
+            {"iso" : "QA", "country" : "Qatar"},
+            {"iso" : "RE", "country" : "Reunion"},
+            {"iso" : "RO", "country" : "Romania"},
+            {"iso" : "RU", "country" : "Russian Federation"},
+            {"iso" : "RW", "country" : "Rwanda"},
+          
+            {"iso" : "SA", "country" : "Saudi Arabia"},
+            {"iso" : "SN", "country" : "Senegal"},
+ 
+            {"iso" : "SL", "country" : "Sierra Leone"},
+            {"iso" : "SG", "country" : "Singapore"},
+
+            {"iso" : "SO", "country" : "Somalia"},
+            {"iso" : "ZA", "country" : "South Africa"},
+        
+            {"iso" : "ES", "country" : "Spain"},
+            {"iso" : "LK", "country" : "Sri Lanka"},
+            {"iso" : "SD", "country" : "Sudan"},
+   
+            {"iso" : "SE", "country" : "Sweden"},
+            {"iso" : "CH", "country" : "Switzerland"},
+            {"iso" : "SY", "country" : "Syrian Arab Republic"},
+            {"iso" : "TW", "country" : "Taiwan, Province of China"},
+            {"iso" : "TZ", "country" : "Tanzania, United Republic of"},
+            {"iso" : "TH", "country" : "Thailand"},
+            {"iso" : "TL", "country" : "Timor-Leste"},
+            {"iso" : "TG", "country" : "Togo"},
+            {"iso" : "TK", "country" : "Tokelau"},
+            {"iso" : "TO", "country" : "Tonga"},
+            {"iso" : "TT", "country" : "Trinidad and Tobago"},
+            {"iso" : "TN", "country" : "Tunisia"},
+            {"iso" : "TR", "country" : "Turkey"},
+          
+            {"iso" : "UG", "country" : "Uganda"},
+            {"iso" : "UA", "country" : "Ukraine"},
+            {"iso" : "AE", "country" : "United Arab Emirates"},
+            {"iso" : "GB", "country" : "United Kingdom"},
+            {"iso" : "US", "country" : "United States"},
+ 
+    
+            {"iso" : "UZ", "country" : "Uzbekistan"},
+            {"iso" : "VU", "country" : "Vanuatu"},
+            {"iso" : "VE", "country" : "Venezuela"},
+
+            {"iso" : "YE", "country" : "Yemen"}
+          
+
+        
+    ],
+    
+            "villes":[
+               
+              {
+                "country": "Morocco",
+                "geonameid": 2526435,
+                "name": "Za\u00efo",
+                "subcountry": "Oriental"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2526452,
+                "name": "Zagora",
+                "subcountry": "Souss-Massa-Dr\u00e2a"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2526488,
+                "name": "Youssoufia",
+                "subcountry": "Doukkala-Abda"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2527089,
+                "name": "Tiznit",
+                "subcountry": "Souss-Massa-Dr\u00e2a"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2527645,
+                "name": "Tirhanim\u00eene",
+                "subcountry": "Taza-Al Hoceima-Taounate"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2527915,
+                "name": "Tinghir",
+                "subcountry": "Souss-Massa-Dr\u00e2a"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2528659,
+                "name": "Tiflet",
+                "subcountry": "Rabat-Sal\u00e9-Zemmour-Za\u00ebr"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2528910,
+                "name": "T\u00e9touan",
+                "subcountry": "Tanger-T\u00e9touan"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2529317,
+                "name": "Taza",
+                "subcountry": "Taza-Al Hoceima-Taounate"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2529649,
+                "name": "Taroudant",
+                "subcountry": "Souss-Massa-Dr\u00e2a"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2530048,
+                "name": "Taourirt",
+                "subcountry": "Oriental"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2530155,
+                "name": "Taounate",
+                "subcountry": "Taza-Al Hoceima-Taounate"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2530241,
+                "name": "Tan-Tan",
+                "subcountry": "Guelmim-Es Smara"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2530335,
+                "name": "Tangier",
+                "subcountry": "Tanger-T\u00e9touan"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2531480,
+                "name": "Tahla",
+                "subcountry": "Taza-Al Hoceima-Taounate"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2532394,
+                "name": "Souq Larb\u2019a al Gharb",
+                "subcountry": "Gharb-Chrarda-Beni Hssen"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2532822,
+                "name": "Sidi Yahia El Gharb",
+                "subcountry": "Gharb-Chrarda-Beni Hssen"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2532945,
+                "name": "Sidi Slimane",
+                "subcountry": "Gharb-Chrarda-Beni Hssen"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2533191,
+                "name": "Sidi Qacem",
+                "subcountry": "Gharb-Chrarda-Beni Hssen"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2534515,
+                "name": "Sidi Ifni",
+                "subcountry": "Souss-Massa-Dr\u00e2a"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2536074,
+                "name": "Sidi Bennour",
+                "subcountry": "Doukkala-Abda"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2537406,
+                "name": "Settat",
+                "subcountry": "Chaouia-Ouardigha"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2537545,
+                "name": "Sefrou",
+                "subcountry": "F\u00e8s-Boulemane"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2537763,
+                "name": "Sale",
+                "subcountry": "Rabat-Sal\u00e9-Zemmour-Za\u00ebr"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2537881,
+                "name": "Safi",
+                "subcountry": "Doukkala-Abda"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2538475,
+                "name": "Rabat",
+                "subcountry": "Rabat-Sal\u00e9-Zemmour-Za\u00ebr"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2539134,
+                "name": "Oulad Te\u00efma",
+                "subcountry": "Souss-Massa-Dr\u00e2a"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2540483,
+                "name": "Oujda",
+                "subcountry": "Oriental"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2540689,
+                "name": "Oued Zem",
+                "subcountry": "Chaouia-Ouardigha"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2540810,
+                "name": "Ouezzane",
+                "subcountry": "Gharb-Chrarda-Beni Hssen"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2540850,
+                "name": "Ouarzazat",
+                "subcountry": "Souss-Massa-Dr\u00e2a"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2541479,
+                "name": "Nador",
+                "subcountry": "Oriental"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2542051,
+                "name": "Mohammedia",
+                "subcountry": "Grand Casablanca"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2542227,
+                "name": "Midelt",
+                "subcountry": "Mekn\u00e8s-Tafilalet"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2542715,
+                "name": "Mekn\u00e8s",
+                "subcountry": "Mekn\u00e8s-Tafilalet"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2542866,
+                "name": "Mechraa Bel Ksiri",
+                "subcountry": "Gharb-Chrarda-Beni Hssen"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2542987,
+                "name": "Martil",
+                "subcountry": "Tanger-T\u00e9touan"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2542997,
+                "name": "Marrakesh",
+                "subcountry": "Marrakech-Tensift-Al Haouz"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2543549,
+                "name": "Larache",
+                "subcountry": "Tanger-T\u00e9touan"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2544001,
+                "name": "Ksar El Kebir",
+                "subcountry": "Tanger-T\u00e9touan"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2544248,
+                "name": "Khouribga",
+                "subcountry": "Chaouia-Ouardigha"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2544333,
+                "name": "Khenifra",
+                "subcountry": "Mekn\u00e8s-Tafilalet"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2544571,
+                "name": "Kenitra",
+                "subcountry": "Gharb-Chrarda-Beni Hssen"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2544720,
+                "name": "Kasba Tadla",
+                "subcountry": "Tadla-Azilal"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2545017,
+                "name": "Jerada",
+                "subcountry": "Oriental"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2545985,
+                "name": "Imzo\u00fbrene",
+                "subcountry": "Taza-Al Hoceima-Taounate"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2548489,
+                "name": "Guercif",
+                "subcountry": "Taza-Al Hoceima-Taounate"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2548526,
+                "name": "Guelmim",
+                "subcountry": "Guelmim-Es Smara"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2548830,
+                "name": "Fkih Ben Salah",
+                "subcountry": "Tadla-Azilal"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2548880,
+                "name": "F\u00e8s al Bali",
+                "subcountry": "F\u00e8s-Boulemane"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2548885,
+                "name": "Fes",
+                "subcountry": "F\u00e8s-Boulemane"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2549263,
+                "name": "Essaouira",
+                "subcountry": "Marrakech-Tensift-Al Haouz"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2550078,
+                "name": "El Jadida",
+                "subcountry": "Doukkala-Abda"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2550252,
+                "name": "El Hajeb",
+                "subcountry": "Mekn\u00e8s-Tafilalet"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2550806,
+                "name": "El A\u00efoun",
+                "subcountry": "Oriental"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2553455,
+                "name": "Chefchaouene",
+                "subcountry": "Tanger-T\u00e9touan"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2553604,
+                "name": "Casablanca",
+                "subcountry": "Grand Casablanca"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2553751,
+                "name": "Bouznika",
+                "subcountry": "Chaouia-Ouardigha"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2555467,
+                "name": "Berkane",
+                "subcountry": "Oriental"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2555745,
+                "name": "Beni Mellal",
+                "subcountry": "Tadla-Azilal"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2556272,
+                "name": "Berrechid",
+                "subcountry": "Chaouia-Ouardigha"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2556464,
+                "name": "Azrou",
+                "subcountry": "Mekn\u00e8s-Tafilalet"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2556657,
+                "name": "Azemmour",
+                "subcountry": "Doukkala-Abda"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2557055,
+                "name": "Asilah",
+                "subcountry": "Tanger-T\u00e9touan"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2558470,
+                "name": "Khemisset",
+                "subcountry": "Rabat-Sal\u00e9-Zemmour-Za\u00ebr"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2558545,
+                "name": "Al Hoce\u00efma",
+                "subcountry": "Taza-Al Hoceima-Taounate"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2561124,
+                "name": "Ahfir",
+                "subcountry": "Oriental"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2561668,
+                "name": "Agadir",
+                "subcountry": "Souss-Massa-Dr\u00e2a"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 2562055,
+                "name": "Skhirate",
+                "subcountry": "Rabat-Sal\u00e9-Zemmour-Za\u00ebr"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 6546693,
+                "name": "Boujniba",
+                "subcountry": "Chaouia-Ouardigha"
+              },
+              {
+                "country": "Morocco",
+                "geonameid": 8542188,
+                "name": "Dakhla",
+                "subcountry": "Oued ed Dahab-Lagouira"
+              }
+            ]
+            
+          }
